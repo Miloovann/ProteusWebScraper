@@ -1,0 +1,16 @@
+{
+    "status": 1,
+    "message": "The operation is made successfully.!",
+    "data": {
+        "userid": "F6OSWL",
+        "goods_id": 648,
+        "title": "FIVE NIGHTS AT FREDDY'S 4",
+        "img": "https:\\/\\/admin.proteusio.net\\/upload\\/6ed4286df2621bad\\/5d11e2d6c7467abe.jpg",
+        "price": "250.00",
+        "create_time": "2022-12-13 18:04:50",
+        "liandan_status": 0,
+        "income": "15.00",
+        "status": 0,
+        "id": "77092589099661"
+    }
+}

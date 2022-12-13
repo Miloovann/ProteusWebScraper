@@ -1,4 +1,4 @@
-# ProteusScraper
+# ProteusWebScraper
 Automating a Task on a website
 
 ProteusScraper is an impromptu, one-afternoon project. 
